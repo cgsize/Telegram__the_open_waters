@@ -8,6 +8,6 @@ Download before this gets nuked by Swiftcord lawyers (nvm, they're two indie dev
 
 Website coming soon.
 
-The patch is an obfuscated dylib in MacOS. Much love!
+The patch is a clean dylib in MacOS. Much love!
 
 \- Open Waters
